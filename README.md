@@ -1,2 +1,2 @@
-# primeiro-projeto-github
+# Primeiro Projeto Git
 Primeiro repositório para DIO
